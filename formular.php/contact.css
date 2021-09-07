@@ -1,0 +1,33 @@
+form{
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    background-color: grey;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+h1{
+    margin-left: 150px;
+}
+label{
+    width: 250px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+input{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 4px;
+    
+}
+
+
+
+button{
+    font-size: 30px;
+    width: 200px;
+    height: 40px;
+    margin-left: 250px;
+    background-color: green;
+}
